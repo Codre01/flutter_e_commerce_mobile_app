@@ -11,6 +11,11 @@ Set your Environment variables. Open the **.env_example** to see the Environment
 Environment file
         **.env.development** -When the app is run in development(dev) mode.
         **.env.production** - When the app is run is production mode.
+
+Environment Variable
+API_BASE_URL = 'http://10.0.2.2:8000'
+
+
 Open up an emulator
         If your running your backend service on your System along side with your Emulator. If your run a andriod Emulator your host URL should be http://10.0.2.2:THE_SERVER_PORT_NUMBER.
 
